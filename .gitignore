@@ -4,6 +4,9 @@
 # Node specific
 node_modules
 
+# Other
+*/static/CACHE/
+  
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
