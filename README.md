@@ -1,6 +1,6 @@
 # timepiece-demo
 
-A demo repo to display project level functionality for utilizing the [django-timepiece](https://github.com/caktus/django-timepiece) project.
+A demo repository to display project level functionality for utilizing the [django-timepiece](https://github.com/caktus/django-timepiece) project.
 
 ## Installation
 
@@ -34,8 +34,8 @@ Create your virtual enviroment (virtualenv).
 ```sh
 [demo] mkvirtualenv timepiece-venv
 Using base prefix '../../.pyenv/versions/3.4.1'
-New python executable in ../../.virtualenvs/timepice-venv/bin/python3.4
-Also creating executable in /Users/juliaelman/.virtualenvs/demo-timepiece/bin/python
+New python executable in ../../.virtualenvs/timepiece-venv/bin/python3.4
+Also creating executable in ../../.virtualenvs/timepiece-venv/bin/python
 Installing setuptools, pip, wheel...done.
 virtualenvwrapper.user_scripts creating ../../.virtualenvs/timepiece-venv/bin/predeactivate
 virtualenvwrapper.user_scripts creating ../../.virtualenvs/timepiece-venv/bin/postdeactivate
