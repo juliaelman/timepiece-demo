@@ -25,7 +25,7 @@ createdb timepiece
 Let's grab that code! Download the `demo-timepiece` repo onto your local machine.
 
 ```sh
-$ git clone [git url]
+$ git clone git@github.com:juliaelman/timepiece-demo.git
 $ cd timepiece-demo
 ```
 
