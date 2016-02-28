@@ -1,0 +1,10 @@
+// Includes
+@import "../../public/static/timepiece/less/style.less";
+
+#grid {
+  .core  {
+    .span(@gridColumns) {
+      width: (@gridColumnWidth * @gridColumns) + (@gridGutterWidth * (@gridColumns - 1));
+    }
+  }
+};
