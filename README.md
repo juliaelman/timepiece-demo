@@ -14,6 +14,16 @@ Before installing the demo, you'll need to have the following installed.
 
 **NOTE: While some of these items are based on personal preference, it is the method I used and got working on my local dev.**
 
+### Installing LESS
+
+`django-timepiece` uses the `django-bootstrap-toolkit` project, which is based off of Bootstrap 2. Because of this, an older version of LESS needs to be installed on your machine to be able to compile these files accurately.
+
+```sh
+npm install -g less@1.4.0
+```
+
+If you already have LESS installed (type `lessc` to check), be sure that you are using version <= 1.4.0.
+
 ### Installing timepiece-demo
 
 First off, let's create our local database. Make sure that you have Postgres.app turned on and configured accurately.
